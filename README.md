@@ -4,20 +4,24 @@ Technologies used: Nodejs, Express.js, MongoDB
 
 Installation:
 
-node --version
-npm install -g express-generator
-express --version
-cd desktop
-express Vidzy
+Express:
+    
+    node --version
+    npm install -g express-generator
+    express --version
+    cd desktop
+    express Vidzy
 
-cd Vidzy
-npm install 
-npm install nodemon -g
-nodemon
+    cd Vidzy
+    npm install 
+    npm install nodemon -g
+    nodemon
 
-npm install monk --save 
-sudo npm install ejs --save
-npm install method-override --save 
+Monk:
+    
+    npm install monk --save 
+    sudo npm install ejs --save
+    npm install method-override --save 
 
 
 mongod                      // to start mongodb as a service
