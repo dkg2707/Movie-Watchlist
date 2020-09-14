@@ -24,7 +24,8 @@ Monk:
     npm install method-override --save 
 
 
-mongod                      // to start mongodb as a service
-mongod --dbpath ~/data/db   // if your dbpath is different from /data/db
+mongod                      - to start mongodb as a service
+
+mongod --dbpath ~/data/db   - if your dbpath is different from /data/db
 
 
